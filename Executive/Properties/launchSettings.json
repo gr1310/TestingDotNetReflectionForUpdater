@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Executive": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Garima Ranjan\\source\\repos\\UpdaterStarting\\Module1\\bin\\Debug\\net6.0\\Module1.dll\""
+    }
+  }
+}

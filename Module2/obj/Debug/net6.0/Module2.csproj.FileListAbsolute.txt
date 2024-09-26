@@ -1,0 +1,15 @@
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\bin\Debug\net6.0\Module2.deps.json
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\bin\Debug\net6.0\Module2.dll
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\bin\Debug\net6.0\Module2.pdb
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\bin\Debug\net6.0\Module1.dll
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\bin\Debug\net6.0\Module1.pdb
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\Module2.csproj.AssemblyReference.cache
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\Module2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\Module2.AssemblyInfoInputs.cache
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\Module2.AssemblyInfo.cs
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\Module2.csproj.CoreCompileInputs.cache
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\Module2.csproj.Up2Date
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\Module2.dll
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\refint\Module2.dll
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\Module2.pdb
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module2\obj\Debug\net6.0\ref\Module2.dll

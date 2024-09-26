@@ -1,0 +1,11 @@
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\bin\Debug\net6.0\Module1.deps.json
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\bin\Debug\net6.0\Module1.dll
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\bin\Debug\net6.0\Module1.pdb
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\obj\Debug\net6.0\Module1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\obj\Debug\net6.0\Module1.AssemblyInfoInputs.cache
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\obj\Debug\net6.0\Module1.AssemblyInfo.cs
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\obj\Debug\net6.0\Module1.csproj.CoreCompileInputs.cache
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\obj\Debug\net6.0\Module1.dll
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\obj\Debug\net6.0\refint\Module1.dll
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\obj\Debug\net6.0\Module1.pdb
+C:\Users\Garima Ranjan\source\repos\UpdaterStarting\Module1\obj\Debug\net6.0\ref\Module1.dll
